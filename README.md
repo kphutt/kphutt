@@ -1,8 +1,6 @@
 # Hi, I'm Karsten
 
-Identity & security engineer based in Bellevue, WA.
-
-I build tools at the intersection of authentication, developer experience, and AI-assisted development.
+Engineering leader exploring identity, security, and AI-assisted development.
 
 ## What I'm Working On
 
@@ -15,4 +13,4 @@ I build tools at the intersection of authentication, developer experience, and A
 
 - Identity & access management (OAuth2, OIDC, WebAuthn, FAPI, SCIM)
 - AI-assisted developer tooling
-- Security engineering
+- Building things in Go, Node, and Python
