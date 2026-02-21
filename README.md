@@ -2,6 +2,10 @@
 
 Engineering leader exploring identity, security, and AI-assisted development.
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ## What I'm Working On
 
 - **[identity-lab](https://github.com/kphutt/identity-lab)** — Interactive CLI simulations for learning the modern identity stack (WebAuthn, OIDC, OAuth2, DPoP, SCIM, CAEP)
