@@ -13,6 +13,17 @@ Engineering leader exploring identity, security, and AI-assisted development.
 | [interview-prep] | One command generates Staff-level interview prep — deep-dive episodes, podcasts, and an AI coach | Python |
 | [prompt-lenses] | Model-agnostic prompt library for code and document review through cognitive lenses | Markdown |
 
+## Current Status
+
+| Project | Phase | Next Action |
+|---------|-------|-------------|
+| identity-lab | All 9 experiments complete | Working WebAuthn relying party |
+| inbox-shepherd | Implementation complete | GCP setup for Advanced Protection, then go live |
+| text-adventure-v2 | Dungeon crawler working, combat in proto | Simple item usage/puzzles or command pattern refactor |
+| ai-toolkit | 9 skills, 4 hooks, setup.py working | `/hygiene` skill (codebase entropy scanner) |
+| interview-prep | Reference profile shipped | Tier 1: better profile template, `clean` command |
+| prompt-lenses | Research + infrastructure done | Phase 4: build 11 mandatory lenses |
+
 ## Stable
 
 | Project | What it does | Built with |
