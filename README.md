@@ -11,7 +11,7 @@ Engineering leader exploring identity, security, and AI-assisted development.
 | [identity-lab] | Learn the modern identity stack by breaking it — 9 interactive CLI simulations for OAuth2, OIDC, WebAuthn, DPoP, SCIM, CAEP | Node.js | Complete | — |
 | [inbox-shepherd] | Gmail triage pipeline — header screening, static rules, then LLM classification with logged decisions | Apps Script | Blocked on Google Advanced Protection Program (APP) | Run on a non-APP Gmail account |
 | [prompt-lenses] | Model-agnostic prompt library for code and document review through cognitive lenses | Markdown | Template built, lenses not yet implemented | Build first lens |
-| [interview-prep] | One command generates Staff-level interview prep — deep-dive episodes, podcasts, and an AI coach | Python | In development | Friction cycle: B1 (domain template guidance) next |
+| [interview-prep] | One command generates Staff-level interview prep — deep-dive episodes, podcasts, and an AI coach | Python | In development | Better init template + guidance |
 | [ai-toolkit] | Claude Code skills, hooks, and project scaffolding for AI-assisted development | Python | Stable, in use | Add an agent |
 | [text-adventure-v2] | Procedural dungeon crawler with BFS-validated solvable maps and fog-of-war rendering | Go | Basics playable | Feature expansion |
 | [dotfiles] | Terminal dev environment — zsh, tmux, delta, tmuxinator, project scaffolding | Shell | Stable | — |
