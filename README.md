@@ -13,7 +13,7 @@ Engineering leader exploring identity, security, and AI-assisted development.
 | [prompt-lenses] | Model-agnostic prompt library for code and document review through cognitive lenses | Markdown | Template built, lenses not yet implemented | Build first lens |
 | [interview-prep] | One command generates Staff-level interview prep — deep-dive episodes, podcasts, and an AI coach | Python | In development | Better init template + guidance |
 | [text-adventure-v2] | Procedural dungeon crawler with BFS-validated solvable maps and fog-of-war rendering | Go | Basics playable | Feature expansion |
-| [dotfiles] | Terminal dev environment — zsh, tmux, delta, tmuxinator, project scaffolding | Shell | Stable | — |
+| [dotfiles] | Cross-platform terminal dev environment managed with chezmoi — one source renders zsh (macOS) + PowerShell (Windows) with a byte-identical starship prompt, delta diffs, zoxide/fzf | chezmoi · Shell | Stable | — |
 
 ## How I Work
 
