@@ -17,7 +17,7 @@ Engineering leader exploring identity, security, and AI-assisted development.
 
 ## How I Work
 
-All repos follow the same documentation lifecycle: `ROADMAP.md` for priorities, `docs/decisions/` for append-only architectural decision records, and `CLAUDE.md` as the AI coding assistant entry point. Details in [kphutt/.github].
+All repos follow the same documentation lifecycle: `ROADMAP.md` for priorities, `docs/decisions/` for append-only architectural decision records, and `AGENTS.md` as the AI coding assistant entry point. Details in [kphutt/.github].
 
 [identity-lab]: https://github.com/kphutt/identity-lab
 [inbox-shepherd]: https://github.com/kphutt/inbox-shepherd
