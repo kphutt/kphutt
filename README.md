@@ -14,7 +14,7 @@ Engineering leader exploring identity, security, and AI-assisted development.
 | [interview-prep] | One command generates Staff-level interview prep — deep-dive episodes, podcasts, and an AI coach | Python | In development |
 | [text-adventure-v2] | Procedural dungeon crawler with BFS-validated solvable maps and fog-of-war rendering | Go | Playable |
 | [dotfiles] | Cross-platform terminal dev environment managed with chezmoi — one source renders zsh (macOS) + PowerShell (Windows) with a byte-identical starship prompt, delta diffs, zoxide/fzf | chezmoi · Shell | Stable |
-| [gdmutant] | Mutation testing for GDScript and Godot — find the bugs your green tests would miss | Python | Early |
+| [gdmutant] ([PyPI][gdmutant-pypi]) | Mutation testing for GDScript and Godot — find the bugs your green tests would miss | Python | Published |
 
 ## How I Work
 
@@ -27,4 +27,5 @@ All repos follow the same documentation lifecycle: `ROADMAP.md` for priorities, 
 [text-adventure-v2]: https://github.com/kphutt/text-adventure-v2
 [dotfiles]: https://github.com/kphutt/dotfiles
 [gdmutant]: https://github.com/kphutt/gdmutant
+[gdmutant-pypi]: https://pypi.org/project/gdmutant/
 [kphutt/.github]: https://github.com/kphutt/.github
