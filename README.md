@@ -1,6 +1,6 @@
 # Hi, I'm Karsten
 
-Engineering leader exploring identity, security, and AI-assisted development.
+I build identity and security infrastructure.
 
 [kphutt.com](https://kphutt.com)
 
