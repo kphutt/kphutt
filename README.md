@@ -8,7 +8,7 @@ I build identity and security infrastructure.
 
 | Project | What it does | Built with | Phase |
 |---------|-------------|------------|-------|
-| [explorables] | Interactive explainers you can play with, starting with a backup-power storm test | HTML · JavaScript | Live |
+| [explorables] | Interactive explainers you can play with, starting with a backup-power storm test | HTML · JavaScript | [Live][explorables-site] |
 | [gdmutant] | Mutation testing for GDScript and Godot: find the bugs your green tests would miss | Python | [Published][gdmutant-pypi] |
 | [identity-lab] | Learn the modern identity stack by breaking it — 9 interactive CLI simulations for OAuth2, OIDC, WebAuthn, DPoP, SCIM, CAEP | Node.js | Complete |
 | [inbox-shepherd] | Gmail triage pipeline — header screening, static rules, then LLM classification with logged decisions | Apps Script | Early |
@@ -28,6 +28,7 @@ All repos follow the same documentation lifecycle: `ROADMAP.md` for priorities, 
 [text-adventure-v2]: https://github.com/kphutt/text-adventure-v2
 [dotfiles]: https://github.com/kphutt/dotfiles
 [explorables]: https://github.com/kphutt/explorables
+[explorables-site]: https://explorables.kphutt.com/
 [gdmutant]: https://github.com/kphutt/gdmutant
 [gdmutant-pypi]: https://pypi.org/project/gdmutant/
 [kphutt/.github]: https://github.com/kphutt/.github
